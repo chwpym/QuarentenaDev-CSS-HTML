@@ -1,2 +1,2 @@
-# Exercicio de HTML-CSS
+# Desafio Art HTML-CSS
  QuarentenaDev
