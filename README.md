@@ -1,2 +1,2 @@
-# JavaScript
+# Exercicio de HTML-CSS
  QuarentenaDev
