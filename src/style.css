@@ -1,0 +1,41 @@
+h1 {
+    color:#ff4500;
+    font-weight: bolder;
+    font-size: 45px;
+    
+   }
+
+h2 {
+    color:#ff4500;
+    font-weight: 800;
+    font-size: 28px;
+    
+   }
+
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content: '\2022';
+    margin: 0 2px;
+    color: black;
+   ;
+}
+
+li{
+    color: #ff4500;
+    text-decoration: underline #ff4500;
+    font-size: 18px;
+    font-weight: bolder
+}
+
+
+img {
+    width: 300px;
+    right: 300PX;
+    border: #ff4500 solid 2mm;
+    margin: 2px;
+    
+
+}
